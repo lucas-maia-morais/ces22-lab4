@@ -1,10 +1,13 @@
 # ces22-lab4
 
-## Abstract Factory Padaria
+## Bridge Factory - Fábrica de carros com motores diferentes
 ![Alt text](./BridgeFactory.drawio.svg)
 <!-- <img src="./padaria-factory.drawio.svg"> -->
 
-## Builder Padaria
+### Exemplos de saída
+![Alt text](./saidaBridgeFactory.drawio.svg)
+
+<!-- ## Builder Padaria
 ![Alt text](./padaria-builder.drawio.svg)
 <!-- <img src="./padaria-builder.drawio.svg">
- -->
+ --> -->
