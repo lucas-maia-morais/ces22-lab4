@@ -11,3 +11,8 @@
 ![Alt text](./padaria-builder.drawio.svg)
 <!-- <img src="./padaria-builder.drawio.svg">
  --> -->
+
+## Decorador - Pizzaria
+
+### Exemplos de saída
+![Alt text](./saidaPizza.svg)
