@@ -5,7 +5,7 @@
 <!-- <img src="./padaria-factory.drawio.svg"> -->
 
 ### Exemplos de saída
-![Alt text](./saidaBridgeFactory.drawio.svg)
+![Alt text](./saidaBridgeFactory.svg)
 
 <!-- ## Builder Padaria
 ![Alt text](./padaria-builder.drawio.svg)
